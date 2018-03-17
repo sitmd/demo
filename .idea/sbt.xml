@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="$USER_HOME$/WorkSpace/soft/play-2.2.3/repository/local/org.scala-sbt/sbt/0.13.0/jars/sbt.jar" />
+    <option name="maximumHeapSize" value="1024" />
+    <option name="vmParameters" value="-Xmx512M -XX:MaxPermSize=256M -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=5005" />
+  </component>
+</project>
